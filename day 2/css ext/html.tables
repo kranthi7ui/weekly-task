@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+	 table , tr , td , th ,{
+	   border:2px solid red;
+	   width:20px;
+	   border-collapse:collapse;
+	 
+	 
+	 }
+	
+	
+	
+	</style>
+  
+  
+  
+  
+  
+  
+  </head>
+    <body>
+	 
+	 <table>
+	   <tr>
+	    <td>kranthi</td>
+		<td>ram</td>
+	    <td>meow</td>
+	   
+	   </tr>
+  	    <tr>
+		 <td>rishitha</td>
+		 <td>nandini</td>
+		 <td>sruthi</td>
+		
+		
+		</tr>
+	 
+	 
+	 
+	 </table>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
